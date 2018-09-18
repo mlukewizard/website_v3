@@ -10,3 +10,4 @@ npm-debug.log
 bower_components/
 .module-cache
 .idea/
+project/database/website_db.db
